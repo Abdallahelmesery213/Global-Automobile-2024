@@ -537,11 +537,11 @@ header .nav3 ul li:not(:last-child)::after {
 .banner-2 .banner-text hr{
     margin-right: 0;
 }
-.banner-2 .banner-text h3 ,
+/* .banner-2 .banner-text h3 ,
 .banner-3 .banner-text h3 ,
 .banner-5 .banner-text h3 {
-    /* margin-top: 69%; */
-}
+    margin-top: 69%;
+} */
 .banner .banner-text p{
     font-family: acuminLightFont;
     font-size: 18px;
